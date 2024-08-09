@@ -1,0 +1,126 @@
+body{
+    background-color: bisque;
+}
+
+.top{
+    height:70px;
+    width:auto;
+    background-color: rgb(71, 51, 7);
+    border: 10px solid;
+    border-color: rgb(133, 86, 28);
+    border-style: ridge;
+
+}
+
+
+
+.middle{
+    height: 500px;
+    width:auto;
+    background-color: rgb(71, 51, 7);
+    margin-top: 10px;
+    border: 10px solid;
+    border-color: rgb(133, 86, 28);
+    border-style: ridge;
+    font-size: 50px;
+    
+
+    
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.bottom{
+    background-color: rgb(71, 51, 7);
+    width:auto;
+    height: 400px;
+    margin-top: 10px;
+    border: 10px solid;
+    border-color: rgb(133, 86, 28);
+    border-style: ridge;
+    margin-bottom: -150%;
+    
+    
+}
+
+
+.youtube-top{
+    background-color: rgb(226, 200, 161);
+    margin-top: 11px;
+    font-size: 30px;
+    margin-left: 20px;
+    border: 5px solid;
+    border-color: rgb(133, 86, 28);
+    border-style:inset;
+    
+}
+.instagram-top{
+    background-color: rgb(226, 200, 161);
+    font-size: 30px;
+    border: 5px solid;
+    border-color: rgb(133, 86, 28);
+    border-style: inset;
+}
+.twitch-top{
+    background-color: rgb(226, 200, 161);
+    font-size: 30px;
+    border: 5px solid;
+    border-color: rgb(133, 86, 28);
+    border-style: inset;
+}
+.melvin{
+    margin-top: 9px;
+}
+.this{
+    margin-top: -300px;
+    margin-left: 600px;
+    color: rgb(226, 200, 161);
+}
+.everything{
+    margin-left: 600px;
+    color: rgb(226, 200, 161);
+}
+.catlegs{
+    margin-bottom: -20%;
+}
+.a{
+    margin-left: 450px;
+    font-size: 50px;
+    color: rgb(226, 200, 161);
+
+}
+.buff{
+    margin-left: 80%;
+    margin-top: -60%;
+    
+}
+.jeff{
+    margin-top: -15%;
+    margin-left: 60%;
+    color: rgb(226, 200, 161);
+}
+.edge{
+    margin-left: 50%;
+    color: rgb(226, 200, 161);
+}
+.disgust{
+    margin-left: 84%;
+    margin-top: 3%;
+}
+.b{
+    font-size: 50px;
+    color: rgb(226, 200, 161);
+
+}
+.smudge{
+    margin-left: 60%;
+    margin-top: -300px;
+}
+.he{
+    margin-left: 55%;
+}
+.alone{
+    margin-left: 60%;
+}
